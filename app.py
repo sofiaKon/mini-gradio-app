@@ -9,7 +9,7 @@ def predict(name):
     if not name:
         return "Please enter your name."
 
-    return f"Hello, {name}! Welcome to my Gradio app 🚀"
+    return f"Hello, {name}! Welcome to Hell! 🌋"
 
 
 demo = gr.Interface(
