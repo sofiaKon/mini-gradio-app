@@ -1,4 +1,4 @@
-[Previous report](README_previous.md) | [Current report](README.md)
+[HomeWork_2](README_1.md) | [HomeWork_1](README.md)
 
 # Python HTTP Server with Docker
 
