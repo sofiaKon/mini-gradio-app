@@ -1,13 +1,9 @@
-[HomeWork_1](README.md) | [HomeWork_2](README_1.md) 
+# Homework
 
----
-title: My Mini Gradio App
-emoji: 🚀
-colorFrom: blue
-colorTo: green
-sdk: gradio
-app_file: app.py
-pinned: false
----
+This repository contains homework assignments for the course.
 
-# My Mini Gradio App
+## Assignments
+
+- [Homework 1](homework_1/README_1.md)
+- [Homework 2](homework_2/README_2.md)
+- [Homework 3](homework_3/gemini_workflow/README_3.md)
